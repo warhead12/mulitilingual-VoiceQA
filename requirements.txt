@@ -1,0 +1,14 @@
+transformers==4.35.0
+accelerate==0.24.1
+einops==0.7.0
+xformers==0.0.22
+bitsandbytes==0.41.1
+faiss_gpu==1.7.2
+sentence-transformers==2.2.2
+huggingface_hub==0.18.0
+pypdf==3.17.0
+torch
+datasets
+numpy
+scipy
+
